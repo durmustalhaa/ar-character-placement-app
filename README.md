@@ -14,3 +14,7 @@ A simple Unity-based AR project developed for a course assignment.
 
 ## Description
 This project was developed for a Visual and Environmental Design course. It allows users to scan a surface, place a selected character in the environment, and view it through a mobile device.
+
+
+##update
+small update for prog tools assignment.
